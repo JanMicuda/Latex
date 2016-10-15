@@ -1,0 +1,124 @@
+\begin{thebibliography}{10}
+
+\bibitem{1}
+S.~Araujo, D.~Tran, A.~DeVries, J.~Hidders, and D.~Schwabe.
+\newblock Serimi: Class-based disambiguation for effective instance matching
+  over heterogeneous web data.
+\newblock In {\em WebDB}, pages 25--30, 2012.
+
+\bibitem{2}
+S.~Auer, C.~Bizer, G.~Kobilarov, J.~Lehmann, R.~Cyganiak, and Z.~Ives.
+\newblock Dbpedia: A nucleus for a web of open data.
+\newblock In {\em The semantic web}, pages 722--735. Springer, 2007.
+
+\bibitem{3}
+D.~Aumueller, H.-H. Do, S.~Massmann, and E.~Rahm.
+\newblock Schema and ontology matching with coma++.
+\newblock In {\em Proceedings of the 2005 ACM SIGMOD international conference
+  on Management of data}, pages 906--908. Acm, 2005.
+
+\bibitem{5}
+A.~Ferraram, A.~Nikolov, and F.~Scharffe.
+\newblock Data linking for the semantic web.
+\newblock {\em Semantic Web: Ontology and Knowledge Base Enabled Tools,
+  Services, and Applications}, 169, 2013.
+
+\bibitem{6}
+H.~Halpin, P.~J. Hayes, J.~P. McCusker, D.~L. McGuinness, and H.~S. Thompson.
+\newblock When owl: sameas isnt the same: An analysis of identity in linked
+  data.
+\newblock In {\em International Semantic Web Conference}, pages 305--320.
+  Springer, 2010.
+
+\bibitem{7}
+A.~Harth, K.~Hose, and R.~Schenkel.
+\newblock Database techniques for linked data management.
+\newblock In {\em Proceedings of the 2012 ACM SIGMOD International Conference
+  on Management of Data}, pages 597--600. ACM, 2012.
+
+\bibitem{4}
+M.~Holub, R.~Moro, J.~Sevcech, M.~Liptak, and M.~Bielikova.
+\newblock Annota: Towards enriching scientific publications with semantics and
+  user annotations.
+\newblock {\em D-Lib Magazine}, 20(11):5, 2014.
+
+\bibitem{8}
+J.~Lehmann, J.~Sch{\"u}ppel, and S.~Auer.
+\newblock Discovering unknown connections-the dbpedia relationship finder.
+\newblock {\em CSSW}, 113:99--110, 2007.
+
+\bibitem{9}
+L.~Leitao, P.~Calado, and M.~Herschel.
+\newblock Efficient and effective duplicate detection in hierarchical data.
+\newblock {\em IEEE Transactions on knowledge and data Engineering},
+  25(5):1028--1041, 2013.
+
+\bibitem{10}
+M.~Ley.
+\newblock The dblp computer science bibliography: Evolution, research issues,
+  perspectives.
+\newblock In {\em International Symposium on String Processing and Information
+  Retrieval}, pages 1--10. Springer, 2002.
+
+\bibitem{11}
+S.~Melnik, H.~Garcia-Molina, and E.~Rahm.
+\newblock Similarity flooding: A versatile graph matching algorithm and its
+  application to schema matching.
+\newblock In {\em Data Engineering, 2002. Proceedings. 18th International
+  Conference on}, pages 117--128. IEEE, 2002.
+
+\bibitem{12}
+A.-C.~N. Ngomo and S.~Auer.
+\newblock Limes-a time-efficient approach for large-scale link discovery on the
+  web of data.
+\newblock {\em integration}, 15:3, 2011.
+
+\bibitem{13}
+A.~Nikolov, M.~dAquin, and E.~Motta.
+\newblock Unsupervised learning of link discovery configuration.
+\newblock In {\em Extended Semantic Web Conference}, pages 119--133. Springer,
+  2012.
+
+\bibitem{14}
+P.~Shvaiko and J.~Euzenat.
+\newblock A survey of schema-based matching approaches.
+\newblock In {\em Journal on data semantics IV}, pages 146--171. Springer,
+  2005.
+
+\bibitem{15}
+P.~Shvaiko and J.~Euzenat.
+\newblock Ontology matching: state of the art and future challenges.
+\newblock {\em IEEE Transactions on knowledge and data engineering},
+  25(1):158--176, 2013.
+
+\bibitem{16}
+F.~M. Suchanek, G.~Kasneci, and G.~Weikum.
+\newblock Yago: a core of semantic knowledge.
+\newblock In {\em Proceedings of the 16th international conference on World
+  Wide Web}, pages 697--706. ACM, 2007.
+
+\bibitem{17}
+J.~Volz, C.~Bizer, M.~Gaedke, and G.~Kobilarov.
+\newblock Silk-a link discovery framework for the web of data.
+\newblock {\em LDOW}, 538, 2009.
+
+\bibitem{18}
+G.~Weikum and M.~Theobald.
+\newblock From information to knowledge: harvesting entities and relationships
+  from web sources.
+\newblock In {\em Proceedings of the twenty-ninth ACM SIGMOD-SIGACT-SIGART
+  symposium on Principles of database systems}, pages 65--76. ACM, 2010.
+
+\bibitem{19}
+O.~R. Za{\"\i}ane, J.~Chen, and R.~Goebel.
+\newblock Mining research communities in bibliographical data.
+\newblock In {\em Advances in web mining and web usage analysis}, pages 59--76.
+  Springer, 2009.
+
+\bibitem{20}
+L.~Zhao and R.~Ichise.
+\newblock Graph-based ontology analysis in the linked open data.
+\newblock In {\em Proceedings of the 8th international conference on semantic
+  systems}, pages 56--63. ACM, 2012.
+
+\end{thebibliography}
